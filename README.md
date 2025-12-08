@@ -7,7 +7,7 @@
 * CPU             : Intel Xeon Gold 6226R @ 2.9GHz
 * Memory          : 32GB
 * Operating system: Ubuntu 22.04
-* PulseAudio      : 16.2
+* Pipewire        : 15.99.0
 * OpenCV          : 4.5.4
 
 #### File description
